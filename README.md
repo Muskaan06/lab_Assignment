@@ -8,3 +8,5 @@ Contains all the Day2 lab assignment programs:
 4. TCP Echo Server
 5. UDP Bit Stuffing
 6. UDP Byte Stuffing
+
+Each file has a MyServer and My Client java file along with their respective output screenshots.
